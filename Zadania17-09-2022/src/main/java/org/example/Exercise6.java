@@ -26,8 +26,7 @@ public class Exercise6 {
 
         Scanner input = new Scanner(System.in);
 
-        int num1 = input.next();
-        int num2 = input.next();
+
 
 
 
